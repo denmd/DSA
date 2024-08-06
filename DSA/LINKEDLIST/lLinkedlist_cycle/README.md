@@ -1,0 +1,4 @@
+- two pointer
+- https://leetcode.com/problems/linked-list-cycle/
+- use slow pointer and fast pointer
+- O(1) complexity
