@@ -1,0 +1,6 @@
+- use same method  that used to find cycle in linked list
+- then keep the fast pointer at it current position but moive th slow pointer to head
+- then traverse, each pointer takes one step only at each iteration
+- the point they meet is the start of the cycle
+- o(1), 2 pointer, fast and slow
+-https://leetcode.com/problems/linked-list-cycle-ii/
