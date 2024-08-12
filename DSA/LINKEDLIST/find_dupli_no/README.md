@@ -1,0 +1,4 @@
+- in first method uses slow and faster pointer
+- Assume it is cycles linked list
+- time complexity O(n) and space O(1)
+- in second method time o(n) and space(n) comlexity
