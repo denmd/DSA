@@ -1,0 +1,2 @@
+- sliding window
+- alternative approach also there
