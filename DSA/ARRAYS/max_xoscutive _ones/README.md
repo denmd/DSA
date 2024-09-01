@@ -1,0 +1,2 @@
+- sliding window
+- https://leetcode.com/problems/max-consecutive-ones/description/
